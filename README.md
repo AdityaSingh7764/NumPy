@@ -1,15 +1,45 @@
 # NumPy
-Here I showcase my files that I created when I was learning NumPy.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adityasingh02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh776433@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaSingh7764&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my **NumPy Learning Repository**
+This repository contains my complete notes, code examples, and exercises as I learned and practiced **NumPy** the core library for numerical and scientific computing in Python.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaSingh7764&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About the Project
+
+NumPy (Numerical Python) is one of the most essential Python libraries for data analysis, machine learning, and scientific computing.  
+Through this repository, I documented my learning journey from NumPy basics to advanced array manipulation and performance optimization techniques.
+
+The learning is divided into three comprehensive notebooks:
+
+1. **`12_Numpy_Fundamentals.ipynb`** – NumPy Basics  
+   - Creating and manipulating arrays  
+   - Array attributes and indexing  
+   - Basic mathematical operations  
+   - Broadcasting and vectorization  
+   - Copy vs. view, reshaping arrays  
+
+2. **`13_Advance_Numpy.ipynb`** – Advanced NumPy Concepts  
+   - Advanced indexing and slicing  
+   - Stacking and splitting arrays  
+   - Random module and statistical operations  
+   - Universal functions (ufuncs)  
+   - Performance comparison with Python lists  
+
+3. **`14_NumPy_Tricks.ipynb`** – Useful NumPy Tricks and Tips  
+   - Handy shortcuts and one-liners  
+   - Memory efficiency techniques  
+   - Working with structured arrays  
+   - Practical examples for data preprocessing  
+   - Best practices for clean and optimized NumPy code  
+
+---
+
+## Tools & Libraries Used
+
+- Python  
+- NumPy 
+- Jupyter Notebook  
+- Jupyter Notebook  
+
+---
