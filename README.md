@@ -40,6 +40,5 @@ The learning is divided into three comprehensive notebooks:
 - Python  
 - NumPy 
 - Jupyter Notebook  
-- Jupyter Notebook  
 
 ---
